@@ -1,0 +1,9 @@
+package com.joysistvi.stage1.day4;
+
+public class AssignmentOperator {
+    public static void main(String[] args) {
+        int num = 10;
+        num = num + 10;
+        System.out.println("The sum of the two numbers is " + num);
+    }
+}
