@@ -11,15 +11,7 @@ public class valueOfMethod {
 
          Syntax:
          String.valueOf(value);
-
-         Note: This is a static method. Called using String.valueOf()
         */
-
-//         int age = 22;
-//
-//         String ageText = String.valueOf(age);
-//
-//         System.out.println(ageText);
 
         int age = 22;
         double price = 99.99;

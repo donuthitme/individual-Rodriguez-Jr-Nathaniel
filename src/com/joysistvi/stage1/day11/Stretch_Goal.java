@@ -16,7 +16,7 @@ public class Stretch_Goal {
         System.out.println("Last character: " + lastCharacter);
 
 
-        // Count how many times P or p appears
+        // Count how many P or p
         int pCount = 0;
 
         for (int i = 0; i < country.length(); i++) {
